@@ -18,7 +18,7 @@ export default function Home() {
                     <div className='relative flex justify-center items-center'>
 
                       <Image
-                        src = "/image-desktop.jpeg"
+                        src = "https://plus.unsplash.com/premium_photo-1673448391321-ee9160646bae?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt = "Welcome"
                         className='hidden md:block rounded-lg z-10'
                         width = {500}
